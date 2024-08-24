@@ -1,4 +1,4 @@
-# 📊 Análisis en el Sector de Telecomunicaciones
+# 📊 Análisis de la pérdida de clientes en el Sector de Telecomunicaciones
 
 ## Descripción General
 En este caso de estudio, analicé un conjunto de datos de una empresa de telecomunicaciones para identificar y mitigar la pérdida de clientes. El análisis incluyó la creación de columnas calculadas, tablas dinámicas y un panel de control visual integral para comprender los factores que impulsan la pérdida de clientes y formular estrategias para abordarlos.
