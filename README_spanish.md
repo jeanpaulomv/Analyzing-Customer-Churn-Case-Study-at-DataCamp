@@ -2,6 +2,8 @@
 
 En este caso de estudio, se analizó un conjunto de datos de una empresa de telecomunicaciones para identificar y reducir la pérdida de clientes. Se exploraron las causas de la pérdida mediante la creación de columnas calculadas, tablas dinámicas y un panel de control visual.
 
+El proyecto se realizó en Excel, y el archivo se encuentra en el repositorio con el nombre 'Case Study.xlsx'.
+
 ![Imagen](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp/blob/main/Image%20Case%20Study.jpg?raw=true)
 
 ## 📈 Conclusiones del Caso de Estudio
