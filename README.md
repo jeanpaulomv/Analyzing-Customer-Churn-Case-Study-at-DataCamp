@@ -2,6 +2,8 @@
 
 In this case study, I analyzed a dataset from a telecommunications company to identify and reduce customer churn. I explored the causes of churn by creating calculated columns, PivotTables, and a visual dashboard.
 
+The project was conducted in Excel, and the file can be found in the repository named 'Case Study.xlsx'.
+
 ![Analysis Image](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp/blob/main/Case%20Study.jpg?raw=true)
 
 ## 📈 Case Study Conclusion
