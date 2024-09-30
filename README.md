@@ -46,4 +46,7 @@ The dataset includes various features related to customer demographics, usage pa
 - **Data Analysis**: In-depth examination of data patterns and insights.
 
 ## Contact
-For more information or inquiries, please contact me on [LinkedIn](https://linkedin.com/in/jeanpaulomv/).
+
+If you have any questions or would like more information, feel free to contact me.
+
+<a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
