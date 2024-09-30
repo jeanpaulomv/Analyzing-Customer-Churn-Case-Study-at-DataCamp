@@ -46,4 +46,7 @@ El conjunto de datos incluye diversas características relacionadas con la demog
 - **Análisis de Datos**: Examinación profunda de patrones y hallazgos en los datos.
 
 ## Contacto
-Para más información o consultas, por favor contáctame en [LinkedIn](https://linkedin.com/in/jeanpaulomv/).
+
+Si tienes preguntas o quieres más información, ponte en contacto conmigo.
+
+<a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
