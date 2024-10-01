@@ -1,4 +1,4 @@
-# 📊 Análisis de la pérdida de clientes en el Sector de Telecomunicaciones
+# Análisis de la pérdida de clientes en el Sector de Telecomunicaciones
 
 ## Descripción General
 En este caso de estudio, analicé un conjunto de datos de una empresa de telecomunicaciones para identificar y mitigar la pérdida de clientes. El análisis incluyó la creación de columnas calculadas, tablas dinámicas y un panel de control visual integral para comprender los factores que impulsan la pérdida de clientes y formular estrategias para abordarlos.
@@ -50,3 +50,4 @@ El conjunto de datos incluye diversas características relacionadas con la demog
 Si tienes preguntas o quieres más información, ponte en contacto conmigo.
 
 <a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+<a href="https://www.datascienceportfol.io/jeanpaulomv"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30"></a>
