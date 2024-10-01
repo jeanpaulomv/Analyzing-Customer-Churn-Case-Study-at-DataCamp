@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis in Telecommunications
+# Customer Churn Analysis in Telecommunications
 
 ## Overview
 In this case study, I analyzed a dataset from a telecommunications company to identify and mitigate customer churn. The analysis involved creating calculated columns, PivotTables, and a comprehensive visual dashboard to understand the factors driving customer churn and to formulate strategies to address them.
@@ -50,3 +50,4 @@ The dataset includes various features related to customer demographics, usage pa
 If you have any questions or would like more information, feel free to contact me.
 
 <a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+<a href="https://www.datascienceportfol.io/jeanpaulomv"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30"></a>
